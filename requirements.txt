@@ -1,0 +1,6 @@
+# Required for full features (web dashboard + charts)
+flask>=2.3.0
+matplotlib>=3.7.0
+
+# Required for building executable
+pyinstaller>=6.0.0
